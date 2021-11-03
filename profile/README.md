@@ -7,57 +7,11 @@
 🧙Frederik Bode Thorbensen\
 🌈 Rasmus Skytte Larsen
 
-Skip to content
-Search...
 
-Log in
-Create account
-
-12
-
-3
-
-22
-
-Cover image for How to Write Stunning Github README.md [Template Provided]
-Rohit Jain
-Rohit Jain
-Posted on 26. apr. • Updated on 14. okt.
-
-How to Write Stunning Github README.md [Template Provided]
-#github #markdown #tutorial #githunt
-If you are here that means you want to create a stunning README.md for your Awesome Repos, So down below I'm going to show you some cool markdown tips (.md means markdown) Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
-
-Good Documentation is as much important as your project, because if you can't explain what your project does, how other can utilize it, then there is no mean of developing awesome projects.
-
-First let's go through the importance of a README.md file
-A README.md file is a guide that gives visitors a detailed description of your project. There is a lot of developers that developed awesome application but if you represent your project well than your project will have great impact, it will gain more.
-If someone visits your project repo then this is the file that will represent your project. So you should put some effort to make your README.md look good.
-You don't need to make always a new README.md. Just create a template and use that for all the projects.
-When you write a README.md file always keep in mind that this is for others not for you.
-
-Now have a look at my project and share your thoughts with me, what you think about the repo it is looking good or not? Can you use this project without any help just by reading README.md?
-
-You can also create simple and stunning README.md in very simple steps.
-
-So, let's start creating your README.md
-One more thing you need to know there is no right or wrong way of Creating README.md, Every Developer has their way of writing the README.md file. I'll explain to you each and everything you can do to create your own.
-
-Github uses its markdown known as GFM (Github Flavour markdown). It just extends the functionality of markdown. So, you can use simple HTML tags and their attributes to make it look good. You can use Emojis, links, pictures,
-
-Project title
-At the very top, you must include a project title using heading 1, Now heading 1 in markdown is with one # sign but you can also use the h1 tag. For example:
-# Project title
-
-or I also like to make it center so,
 
 <h1 align="center">Project title</h1>
 
-we are using, align="center" because we can't use CSS here.
 
-Description
-After the title, you must provide a description of the project and it should not be a long paragraph just a simple descriptive line will do the job. This is the line that should be well crafted and straightforward.
-It describes the quality of your project because no one will run the project at the moment they visit but they judge the project its description.
 
 # Project Description
 
