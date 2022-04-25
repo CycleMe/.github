@@ -5,7 +5,7 @@
 ## Team Members
 
 🧙 Frederik Bode Thorbensen\
-🌈 Rasmus Skytte Larsen
+🌈 Rasmus Skytte Larsen\
 👨‍💻 Benjamin Hamborg Clement Klerens
 
 # Team
