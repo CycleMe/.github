@@ -1,6 +1,6 @@
 ## CycleMe 👋
 
-![Alt Text](https://ibb.co/tJqgSwf)
+![Alt Text](https://i.ibb.co/Ny95Xgh/template.png)
 
 ## Team Members
 
