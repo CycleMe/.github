@@ -22,9 +22,10 @@ You can use Images to show your project, how it looks while running. For putting
 How to use your software
 The most important part after the description is this, You need to provide instruction on how to install your program and how to run it. Make it comprehensive as much as possible So, even a beginner can use it.
 
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi% "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
+- [website](https://www.cycleme.dk/)
+- [api](https://api.cycleme.dk/)
+- [app](https://app.cycleme.dk/)
+- [cloud](https://cloud.cycleme.dk/)
 
 ## Links
 
